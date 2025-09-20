@@ -1,1 +1,12 @@
+# RISC-V SoC Tapeout Program by Sanjay 🏆
+
+Welcome to the **RISC-V SoC Tapeout Program** repository!  
+This project documents the journey from RTL design to GDSII tapeout, utilizing the OpenLane flow with the SkyWater 130nm PDK.
+
+---
+
+## 📁 Week0 / Task0: OpenLane Installation & Setup
+
+In this task, we focus on installing and configuring **OpenLane**, the open-source RTL-to-GDSII flow.  
+It will serve as our primary toolchain for designing, synthesizing, placing, routing, and finally generating layout for the chip.
 
